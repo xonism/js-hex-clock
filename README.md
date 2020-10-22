@@ -1,2 +1,5 @@
 # js-hex-clock
-Simple hex clock project created with JavaScript, HTML and CSS.
+
+🧠 Created using JavaScript, HTML and CSS.
+
+💡 Saw this on Reddit and wanted to recreate it myself.
